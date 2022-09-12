@@ -1,0 +1,28 @@
+
+
+.heading 
+{
+ text-align: left;
+width: 100%;
+
+
+}
+
+.heading h3
+{
+ 
+display: inline;
+
+}
+
+.inst_btn
+{
+    float: right;
+    border-width: 3px;
+   
+}
+
+.big_img 
+{
+    width: 100%;
+}
